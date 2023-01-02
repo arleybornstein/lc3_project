@@ -1,0 +1,10 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	test_add          3005
+//	PAST_TEST_CASE_2  300A
+//	PAST_TEST_CASE_3  300F
+//	PAST_TEST_CASE_4  3014
+//	PAST_TEST_CASE_5  3019
+
